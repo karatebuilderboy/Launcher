@@ -22,4 +22,5 @@
     <icon src="xhdpi.png" platform="android" qualifier="xhdpi" />
     <icon src="xxhdpi.png" platform="android" qualifier="xxhdpi" />
     <icon src="xxhdpi.png" platform="android" qualifier="fr-xxhdpi" />
+    <icon src="xxxhdpi.png" platform="android" qualifier="xxxhdpi" />
 </widget>
