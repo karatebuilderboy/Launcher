@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>Launcher</name>
 
     <description>
         Ann app made using Scratch, Phonegap, github, and Phosphorus
